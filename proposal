@@ -1,0 +1,49 @@
+##Repository
+link
+
+##Description
+
+This Python program will generate color palettes based on different emotions. Users will select a range of moods such as happy, sad and excited and receive a palette that represents the combination of moods. This project is relevant to digital arts and media because it can help artists and graphic designers to find color inspiration.
+
+##Features
+
+- Mood Selection
+    - Users can choose from different moods including happy, calm, sad, dreamy, mysterious and energetic.
+- Color Palette Generation
+    - The program will generate a palette of five colors based on the selected moods.
+- Color Preview
+    - The generated colors will show as large visual swatches.
+- HEX and RGB Color Codes
+    - Each color will show its HEX and RGB values so users can easily reuse the colors in other programs.
+- Save Favorite Palettes
+    - Users will be able to save their favorite color palettes to a file to access them later.
+
+## Challenges
+
+- Working with RGB and HEX color values in Python
+- Researching color theory and how different colors can represent different moods and emotions
+- Learning how to use Tkinter to create an user interface
+- Learning how to randomly generate color combinations from color collections
+
+## Outcomes
+
+Ideal Outcome:
+- Create a functional color palette generator with multiple mood selections. It will include different color combinations, HEX and RGB values and the ability to save favorite palettes. The program is going to have a clean interface with swatches.
+
+Minimal Viable Outcome:
+- Create a working program that allows users to select from at least two different moods and generates a color palette for each selection. The program will display the colors in a graphical interface with HEX codes.
+
+##Milestones
+
+- Week 1
+    1. Research color theory and decide which moods and color to include
+    2. Create the basic Python functions for selecting moods and generating color palettes
+- Week 2
+    1. Create the color palette generation system and HEX/RGB color values
+    2. Create the basic Tkinter window and display the generated colors as visual swatches
+- Week 3
+    1. Create the graphical interface with mood selection and a button to generate new palettes
+    2. Create the ability to save favorite color palettes to a file
+- Week 4
+    1. Test the program, fix bugs and improve the interface design
+    2. Finalize the project and update the repository with the completed program
